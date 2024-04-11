@@ -1,20 +1,14 @@
 # Flappy Bird
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 Flappy Bird is an implementation of the famous flappy bird game in pygame. The game is specifically meant to run on pydroid3 on android, It may not work properly in desktop.
 
-Install pydroid3 on Android from here : [pydroid3 playstore](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_IN&gl=US)
+
 
 <p align='center'>
 	<img src='app.png' width=200 height=300>
 </p>
 
-## How to Download
-
-Download this project from here [Download Flappy Bird](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/Flappy%20Bird)
 
 ## Requirements
 
